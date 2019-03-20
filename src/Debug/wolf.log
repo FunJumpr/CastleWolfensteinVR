@@ -1,0 +1,63 @@
+﻿  cl_cgame.c
+  cl_cin.c
+  cl_console.c
+  cl_input.c
+  cl_keys.c
+  cl_main.c
+  cl_net_chan.c
+  cl_parse.c
+  cl_scrn.c
+  cl_ui.c
+  snd_adpcm.c
+  snd_dma.c
+  snd_mem.c
+  snd_mix.c
+  snd_wavelet.c
+  q_math.c
+  q_shared.c
+  cmd.c
+  cm_load.c
+  cm_patch.c
+  Generating Code...
+  Compiling...
+  cm_polylib.c
+  cm_test.c
+  cm_trace.c
+  common.c
+  cvar.c
+  files.c
+  huffman.c
+  md4.c
+  msg.c
+  net_chan.c
+  unzip.c
+  vm.c
+  vm_interpreted.c
+  vm_x86.c
+  sv_bot.c
+  sv_ccmds.c
+  sv_client.c
+  sv_game.c
+  sv_init.c
+  sv_main.c
+  Generating Code...
+  Compiling...
+  sv_net_chan.c
+  sv_snapshot.c
+  sv_world.c
+  win_input.c
+  win_main.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\win32\win_main.c(1170): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: see declaration of 'GetVersionExA'
+  win_net.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\win32\win_net.c(485): warning C4133: 'function': incompatible types - from 'qboolean *' to 'u_long *'
+  win_shared.c
+  win_snd.c
+  win_syscon.c
+  win_wndproc.c
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\.\Debug\wolf.exe) does not match the Linker's OutputFile property value (C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\Debug\WolfSP.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(wolf) does not match the Linker's OutputFile property value (WolfSP). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+cl_cgame.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  wolf.vcxproj -> C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\.\Debug\wolf.exe
+  wolf.vcxproj -> .\Debug/WolfSP.pdb (Full PDB)

@@ -1,0 +1,119 @@
+﻿  tr_world.c
+  tr_surface.c
+  tr_sky.c
+  tr_shadows.c
+  tr_shade_calc.c
+  tr_shader.c
+  tr_shade.c
+  tr_scene.c
+  tr_noise.c
+  tr_model.c
+  tr_mesh.c
+  tr_marks.c
+  tr_main.c
+  tr_light.c
+  tr_init.c
+  tr_image.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\jpeg-6\jmorecfg.h(152): warning C4142: 'INT32': benign redefinition of type
+  c:\program files (x86)\windows kits\8.1\include\shared\basetsd.h(72): note: see declaration of 'INT32'
+  tr_font.c
+  tr_flares.c
+  tr_curve.c
+  tr_cmesh.c
+  Generating Code...
+  Compiling...
+  tr_cmds.c
+  tr_bsp.c
+  tr_backend.c
+  tr_animation.c
+  win_qgl.c
+  win_glimp.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\win32\win_glimp.c(1111): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: see declaration of 'GetVersionExA'
+  win_gamma.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\win32\win_gamma.c(153): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: see declaration of 'GetVersionExA'
+  jutils.c
+  jmemnobs.c
+c:\program files (x86)\windows kits\8.1\include\shared\basetsd.h(72): warning C4142: 'INT32': benign redefinition of type
+  c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\jpeg-6\jmorecfg.h(152): note: see declaration of 'INT32'
+  jmemmgr.c
+  jidctflt.c
+  jfdctflt.c
+  jerror.c
+c:\program files (x86)\windows kits\8.1\include\shared\basetsd.h(72): warning C4142: 'INT32': benign redefinition of type
+  c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\jpeg-6\jmorecfg.h(152): note: see declaration of 'INT32'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  Generating Code...
+  Compiling...
+  jdhuff.c
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdatadst.c
+  jdapistd.c
+  jdapimin.c
+  jctrans.c
+  jcsample.c
+  jcprepct.c
+  jcphuff.c
+  jcparam.c
+  jcomapi.c
+  jcmaster.c
+  jcmarker.c
+  jcmainct.c
+  jcinit.c
+  jchuff.c
+  jcdctmgr.c
+  Generating Code...
+  Compiling...
+  jccolor.c
+  jccoefct.c
+  jcapimin.c
+  ttsbit.c
+  ttpost.c
+  ttpload.c
+  ttobjs.c
+  ttload.c
+  ttinterp.c
+  ttgload.c
+  ttdriver.c
+  ttcmap.c
+  sfobjs.c
+  sfdriver.c
+  ftsystem.c
+  ftstream.c
+  ftsmooth.c
+  ftrend1.c
+  ftraster.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\ft2\ftraster.c(1080): warning C4244: '=': conversion from 'Long' to 'Short', possible loss of data
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\ft2\ftraster.c(2635): warning C4244: '=': conversion from 'Long' to 'Short', possible loss of data
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\ft2\ftraster.c(2666): warning C4244: '=': conversion from 'Long' to 'UShort', possible loss of data
+  ftoutln.c
+  Generating Code...
+  Compiling...
+  ftobjs.c
+  ftnames.c
+  ftmm.c
+  ftlist.c
+  ftinit.c
+  ftgrays.c
+  ftglyph.c
+  ftextend.c
+  ftdebug.c
+  ftcalc.c
+  ahoptim.c
+  ahmodule.c
+  ahhint.c
+  ahglyph.c
+  ahglobal.c
+  ahangles.c
+  Generating Code...
+  renderer.vcxproj -> C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\renderer\.\Debug\renderer.lib

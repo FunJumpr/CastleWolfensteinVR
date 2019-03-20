@@ -1,0 +1,62 @@
+﻿  q_shared.c
+  q_math.c
+  g_weapon.c
+  g_utils.c
+  g_trigger.c
+  g_tramcar.c
+  g_team.c
+  g_target.c
+  g_syscalls.c
+  g_svcmds.c
+  g_spawn.c
+  g_session.c
+  g_script_actions.c
+  g_script.c
+  g_save.c
+  g_props.c
+  g_mover.c
+  g_missile.c
+  g_misc.c
+  g_mem.c
+  Generating Code...
+  Compiling...
+  g_main.c
+  g_items.c
+  g_combat.c
+  g_cmds.c
+  g_client.c
+  g_bot.c
+  g_alarm.c
+  g_active.c
+  bg_slidemove.c
+  bg_pmove.c
+  bg_misc.c
+  bg_animation.c
+  ai_cast_think.c
+  ai_cast_sight.c
+  ai_cast_script_ents.c
+  ai_cast_script_actions.c
+  ai_cast_script.c
+  ai_cast_func_boss1.c
+  ai_cast_func_attack.c
+  ai_cast_funcs.c
+  Generating Code...
+  Compiling...
+  ai_cast_fight.c
+  ai_cast_events.c
+  ai_cast_debug.c
+  ai_cast_characters.c
+  ai_cast.c
+  ai_team.c
+  ai_main.c
+  ai_dmq3.c
+  ai_dmnet.c
+  ai_cmd.c
+  ai_chat.c
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\game\.\Debug\game.dll) does not match the Linker's OutputFile property value (C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\Debug\qagamex86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(game) does not match the Linker's OutputFile property value (qagamex86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+ai_chat.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library .\Debug/qagamex86.lib and object .\Debug/qagamex86.exp
+  game.vcxproj -> C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\game\.\Debug\game.dll
+  game.vcxproj -> .\Debug/qagamex86.pdb (Full PDB)

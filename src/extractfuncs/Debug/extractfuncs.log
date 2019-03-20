@@ -1,0 +1,16 @@
+﻿  extractfuncs.c
+  l_log.c
+  l_memory.c
+  l_precomp.c
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\extractfuncs\l_precomp.c(132): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\extractfuncs\l_precomp.c(143): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\extractfuncs\l_precomp.c(814): warning C4244: '=': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\extractfuncs\l_precomp.c(815): warning C4133: 'function': incompatible types - from 'unsigned long *' to 'const time_t *const '
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\extractfuncs\l_precomp.c(829): warning C4244: '=': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\andrew\documents\rtcw_vr\rtcw-sp-1.42d-src\rtcw-sp.git\trunk\src\extractfuncs\l_precomp.c(830): warning C4133: 'function': incompatible types - from 'unsigned long *' to 'const time_t *const '
+  l_script.c
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\extractfuncs\.\Debug\extractfuncs.exe) does not match the Linker's OutputFile property value (C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\extractfuncs\extractfuncs.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+extractfuncs.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  extractfuncs.vcxproj -> C:\Users\Andrew\Documents\RTCW_VR\rtcw-sp-1.42d-src\RTCW-SP.git\trunk\src\extractfuncs\.\Debug\extractfuncs.exe
+  extractfuncs.vcxproj -> .\Debug\extractfuncs.pdb (Full PDB)
